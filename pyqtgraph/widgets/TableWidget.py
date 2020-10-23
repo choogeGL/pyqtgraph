@@ -5,7 +5,7 @@ from ..python2_3 import asUnicode, basestring
 from .. import metaarray
 
 
-__all__ = ['TableWidget']
+__all__ = ['TableWidget','TableWidgetItem']
 
 
 def _defersort(fn):
